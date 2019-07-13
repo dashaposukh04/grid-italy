@@ -1,0 +1,6 @@
+*.psd
+*.doc
+*.docs
+*.txt
+node_modules
+package-lock.json
